@@ -88,7 +88,7 @@
   3. 《深入理解Ngnix》
 + Unix高级：
   1. 《Unix网络编程》——网络编程的深入学习
-     + [网络编程-陈硕][https://www.acfun.cn/v/ac23313591]
+     + [网络编程-陈硕](https://www.acfun.cn/v/ac23313591)
   2. 《Unix环境高级编程》（简称字典）配合《Linux/Unix系统编程手册》——网络编程的深入学习
   3. 《Linux多线程服务端编程 使⽤muduo C++⽹络库》——继续深入学习
 
@@ -179,3 +179,5 @@
 
 
 # end
+
+[https://www.acfun.cn/v/ac23313591]: 
